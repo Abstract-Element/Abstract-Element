@@ -26,4 +26,4 @@
     <a href="http://animewaifu.ml"><img src="https://img.shields.io/badge/-Website-FF094?style=flat"/></a>
 </p>
 
-> thank [narumii](https://github.com/narumii) for this read me UwU
+> Le epic readme
