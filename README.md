@@ -23,7 +23,7 @@
 <p align="center">
     <a href="https://discord.com/users/394361432759861260"><img src="https://img.shields.io/badge/-Abstract%20Element%204699-FF094?style=flat&logo=discord"/></a>
     <a href="https://steamcommunity.com/id/Abstract-Element/"><img src="https://img.shields.io/badge/-_Abstract%20Element-FF094?style=flat&logo=steam"/></a>
-    <a href="http://animewaifu.ml"><img src="https://img.shields.io/badge/-Website-FF094?style=flat"/></a>
+    <a href="http://wwww.animewaifu.ml"><img src="https://img.shields.io/badge/-Website-FF094?style=flat"/></a>
 </p>
 
-> Le epic readme
+> Le epic coder
