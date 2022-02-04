@@ -26,4 +26,4 @@
     <a href="http://www.animewaifu.ml"><img src="https://img.shields.io/badge/-Website-FF094?style=flat"/></a>
 </p>
 
-> Le epic coder
+> Le epic coder thanks [narumii](https://github.com/narumii) for this readme
