@@ -5,9 +5,11 @@
 <p align="center">
      <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Abstract-Element&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abstract-Element&layout=compact&theme=maroongold"/>
-   <img height="140em" src="https://discord.c99.nl/widget/theme-2/394361432759861260.png"/>
 </p>
 
+<p align="center">
+    <a href="https:www.animewaifu.ml"><img src="https://discord.c99.nl/widget/theme-3/394361432759861260.png" alt="My Discord Account"/></a>
+</p>
 ---
 
 <img alt="readme gif banner" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F08%2Frikka-takanashi-gif-25.gif&f=1&nofb=1" align="right"/>
