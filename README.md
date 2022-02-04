@@ -15,21 +15,21 @@
 <img alt="readme gif banner" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F08%2Frikka-takanashi-gif-25.gif&f=1&nofb=1" align="right"/>
 
 #### Languages
-- ![HTML](https://img.shields.io/badge/-HTML-FF094)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-FF094)
-- ![CSS](https://img.shields.io/badge/-CSS-FF094)
+- ![HTML](https://img.shields.io/badge/-HTML-B00101)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-B00101)
+- ![CSS](https://img.shields.io/badge/-CSS-B00101)
 
 #### Programs
-- ![Atom](https://img.shields.io/badge/-Atom-FF094)
+- ![Atom](https://img.shields.io/badge/-Atom-B00101)
 
 ---
 
 <p align="center">
-    <a href="https://discord.com/users/394361432759861260"><img src="https://img.shields.io/badge/-Abstract%20Element%204699-FF094?style=flat&amp;logo=discord"></a>
-    <a href="https://steamcommunity.com/id/Abstract-Element/"><img src="https://img.shields.io/badge/-_Abstract%20Element-FF094?style=flat&amp;logo=steam"></a>
-    <a href="https://github.com/Abstract-Element"><img src="https://img.shields.io/badge/-_GitHub_-FF094?style=flat&amp;logo=GitHub"></a>
- <a href="https://www.animewaifu.ml"><img src="https://img.shields.io/badge/-Website-FF094?style=flat"></a>
-<a href="https://osu.ppy.sh/users/18311883/"><img src="https://img.shields.io/badge/-_Abstract%20Element-FF094?style=flat&amp;logo=OSU"></a>
+    <a href="https://discord.com/users/394361432759861260"><img src="https://img.shields.io/badge/-Abstract%20Element%204699-B00101?style=flat&amp;logo=discord"></a>
+    <a href="https://steamcommunity.com/id/Abstract-Element/"><img src="https://img.shields.io/badge/-_Abstract%20Element-B00101?style=flat&amp;logo=steam"></a>
+    <a href="https://github.com/Abstract-Element"><img src="https://img.shields.io/badge/-_GitHub_-B00101?style=flat&amp;logo=GitHub"></a>
+ <a href="https://www.animewaifu.ml"><img src="https://img.shields.io/badge/-Website-B00101?style=flat"></a>
+<a href="https://osu.ppy.sh/users/18311883/"><img src="https://img.shields.io/badge/-_Abstract%20Element-B00101?style=flat&amp;logo=OSU"></a>
 </p>
 
 > Le epic coder thanks [narumii](https://github.com/narumii) for this readme
