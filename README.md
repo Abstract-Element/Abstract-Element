@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <a href=""><img src="https://lanyard.cnrad.dev/api/394361432759861260)](https://discord.com/users/394361432759861260" alt="My Discord Account"/></a>
+    <img src="https://lanyard.cnrad.dev/api/394361432759861260" 
 </p>
 
 ---
@@ -21,6 +21,7 @@
 - ![CSS](https://img.shields.io/badge/-CSS-B00101)
 - ![Java](https://img.shields.io/badge/-java-B00101)
 - ![Python](https://img.shields.io/badge/-python-B00101)
+- ![C#](https://img.shields.io/badge/-C%23-b00101)
  
 
 #### Programs
