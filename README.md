@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <a href=""><img src="https://discord.c99.nl/widget/theme-3/394361432759861260.png" alt="My Discord Account"/></a>
+    <a href=""><img src="[![Discord Presence](https://lanyard.cnrad.dev/api/:394361432759861260)](https://discord.com/users/:394361432759861260)" alt="My Discord Account"/></a>
 </p>
 
 ---
