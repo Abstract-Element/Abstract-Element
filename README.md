@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <a href="https:www.animewaifu.ml"><img src="https://discord.c99.nl/widget/theme-3/394361432759861260.png" alt="My Discord Account"/></a>
+    <a href=""><img src="https://discord.c99.nl/widget/theme-3/394361432759861260.png" alt="My Discord Account"/></a>
 </p>
 
 ---
