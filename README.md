@@ -29,7 +29,6 @@
     <a href="https://discord.com/users/394361432759861260"><img src="https://img.shields.io/badge/-Abstract%20Element%204699-B00101?style=flat&amp;logo=discord"></a>
     <a href="https://steamcommunity.com/id/Abstract-Element/"><img src="https://img.shields.io/badge/-_Abstract%20Element-B00101?style=flat&amp;logo=steam"></a>
     <a href="https://github.com/Abstract-Element"><img src="https://img.shields.io/badge/-_GitHub_-B00101?style=flat&amp;logo=GitHub"></a>
- <a href="https://www.animewaifu.ml"><img src="https://img.shields.io/badge/-Website-B00101?style=flat"></a>
-<a href="https://osu.ppy.sh/users/18311883/"><img src="https://img.shields.io/badge/-_Abstract%20Element-B00101?style=flat&amp;logo=OSU"></a>
+ <a href="my-website-is-dead_Will_fix_soon"><img src="https://img.shields.io/badge/-Website-B00101?style=flat"></a>
 </p>
 
