@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img src="https://lanyard.cnrad.dev/api/:394361432759861260" alt="My Discord Account"/></a>
+    <img src="https://lanyard.cnrad.dev/api/394361432759861260" 
 </p>
 
 ---
