@@ -33,4 +33,3 @@
 <a href="https://osu.ppy.sh/users/18311883/"><img src="https://img.shields.io/badge/-_Abstract%20Element-B00101?style=flat&amp;logo=OSU"></a>
 </p>
 
-> Le epic coder thanks [narumii](https://github.com/narumii) for this readme
