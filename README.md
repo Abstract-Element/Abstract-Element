@@ -13,7 +13,7 @@
 
 ---
 
-<img alt="readme gif banner" src="[https://pa1.aminoapps.com/7469/01c47a060223dc4b0b26abfe67f0ede3abfa8942r1-457-480_hq.gif]" align="right"/>
+<img alt="readme gif banner" src="https://pa1.aminoapps.com/7469/01c47a060223dc4b0b26abfe67f0ede3abfa8942r1-457-480_hq.gif" align="right"/>
 
 #### Languages
 - ![HTML](https://img.shields.io/badge/-HTML-B00101)
