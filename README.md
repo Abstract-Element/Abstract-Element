@@ -19,6 +19,8 @@
 - ![HTML](https://img.shields.io/badge/-HTML-B00101)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-B00101)
 - ![CSS](https://img.shields.io/badge/-CSS-B00101)
+- ![Java](https://img.shields.io/badge/-java-B00101)
+ 
 
 #### Programs
 - ![Atom](https://img.shields.io/badge/-Atom-B00101)
