@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img src="https://lanyard.cnrad.dev/api/394361432759861260" 
+    <a href=""><img src="https://lanyard.cnrad.dev/api/394361432759861260)](https://discord.com/users/394361432759861260" alt="My Discord Account"/></a>
 </p>
 
 ---
@@ -21,7 +21,6 @@
 - ![CSS](https://img.shields.io/badge/-CSS-B00101)
 - ![Java](https://img.shields.io/badge/-java-B00101)
 - ![Python](https://img.shields.io/badge/-python-B00101)
-- ![C#](https://img.shields.io/badge/-C%23-b00101)
  
 
 #### Programs
@@ -35,4 +34,3 @@
     <a href="https://github.com/Abstract-Element"><img src="https://img.shields.io/badge/-_GitHub_-B00101?style=flat&amp;logo=GitHub"></a>
  <a href="https://github.com/Abstract-Element"><img src="https://img.shields.io/badge/-Website-B00101?style=flat"></a>
 </p>
-
