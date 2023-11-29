@@ -20,7 +20,7 @@
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-B00101)
 - ![CSS](https://img.shields.io/badge/-CSS-B00101)
 - ![Java](https://img.shields.io/badge/-java-B00101)
-- ![Python](https://img.shield.io/badge/-python-b00101)
+- ![Python](https://img.shields.io/badge/-python-B00101)
  
 
 #### Programs
