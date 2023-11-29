@@ -21,6 +21,7 @@
 - ![CSS](https://img.shields.io/badge/-CSS-B00101)
 - ![Java](https://img.shields.io/badge/-java-B00101)
 - ![Python](https://img.shields.io/badge/-python-B00101)
+- ![C#](https://img.shields.io/badge/-C%23-b00101)
  
 
 #### Programs
