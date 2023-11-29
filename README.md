@@ -13,7 +13,7 @@
 
 ---
 
-<img alt="readme gif banner" src="[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F08%2Frikka-takanashi-gif-25.gif&f=1&nofb=1](https://pa1.aminoapps.com/7469/01c47a060223dc4b0b26abfe67f0ede3abfa8942r1-457-480_hq.gif)" align="right"/>
+<img alt="readme gif banner" src="[https://pa1.aminoapps.com/7469/01c47a060223dc4b0b26abfe67f0ede3abfa8942r1-457-480_hq.gif]" align="right"/>
 
 #### Languages
 - ![HTML](https://img.shields.io/badge/-HTML-B00101)
